@@ -17,7 +17,7 @@ on:
     branches: 
       - master
 
-#  schedule:
+# # schedule:
 #    - cron: 0 19 * * *
 
 jobs:
